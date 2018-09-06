@@ -10,3 +10,8 @@ git diff readme.txt
 
 add oneline
 
+git log  查看日志
+
+git push origin fenzhiname
+
+
