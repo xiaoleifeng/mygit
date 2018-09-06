@@ -1,0 +1,23 @@
+[33mcommit f34fc3abfacac3a435c0701f5d7107f37e2d1ed0[m[33m ([m[1;36mHEAD -> [m[1;32mfeature_x[m[33m, [m[1;31morigin/feature_x[m[33m)[m
+Author: Kevin <lei_guoliang@163.com>
+Date:   Thu Sep 6 10:33:35 2018 +0800
+
+    添加了一行 git diff readme.txt
+
+[33mcommit beb5c72833f4a5544c473707cc7f1c3d57f55242[m
+Author: Kevin <lei_guoliang@163.com>
+Date:   Thu Sep 6 09:22:44 2018 +0800
+
+    子分支
+
+[33mcommit cd8a359cbcb762f67c1698be0ecfa4bb0f749fe0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Kevin <lei_guoliang@163.com>
+Date:   Thu Sep 6 09:18:56 2018 +0800
+
+    修改readme.txt
+
+[33mcommit 15d1f0faafa77f3a66b07777360169bfd4665921[m
+Author: Kevin <lei_guoliang@163.com>
+Date:   Tue Jun 12 09:01:58 2018 +0800
+
+    first git
